@@ -1,5 +1,9 @@
 # Minecraft-Modpack
 
+## Requirements
+
+Requires Minecraft Forge Version 1.18.1-39.0.64+ [Download](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.18.1.html)
+
 ## Mod Liste
 
 | Mod                             | Link                                                                                 |
