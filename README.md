@@ -2,8 +2,9 @@
 
 ## Requirements
 
+- Minecraft 1.18.1 Java Edition
 - Minecraft Forge Version 1.18.1-39.0.64+ [Download](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.18.1.html)
-- 4GB+ RAM (-Xmx4G in den startparametern)
+- 4GB+ RAM (-Xmx4G in den Startparametern)
 
 ![](https://hillogames.de/mc-req-gb.PNG)
 
