@@ -2,7 +2,9 @@
 
 ## Requirements
 
-Requires Minecraft Forge Version 1.18.1-39.0.64+ [Download](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.18.1.html)
+- Minecraft Forge Version 1.18.1-39.0.64+ [Download](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.18.1.html)
+- 4GB+ RAM (-Xmx4G in den startparametern)
+![](https://hillogames.de/mc-req-gb.PNG)
 
 ## Mod Liste
 
