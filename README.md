@@ -54,7 +54,7 @@
 | Chisels & Bits                  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)              | 1.2.81      |
 | Cloth Config API                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cloth-config-forge)        | 6.2.57      |
 | Clumps                          | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/clumps)                    | 8.0.0+5     |
-| Collective                      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/collective)                | 3.8         |
+| Collective                      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/collective)                | 4.0         |
 | Connected Glass                 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/connected-glass)           | 1.1.1       |
 | Copper Equipment                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/copper-equipment-forge)    | 1.2         |
 | Craftable Horse Armour & Saddle | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cha-s)                     | 1.8         |
