@@ -4,7 +4,7 @@
 
 - Java 17 [Oracle](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)
 - Minecraft 1.18.1 Java Edition [Minecraft](https://www.minecraft.net/de-de/download)
-- Minecraft Forge Version 1.18.1-39.0.64+ [Minecraftforge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.18.1.html)
+- Minecraft Forge Version 1.18.1-39.0.76+ [Minecraftforge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.18.1.html)
 - min. 4GB RAM; 8GB empfohlen (-Xmx8G)
 
 ## Installation
