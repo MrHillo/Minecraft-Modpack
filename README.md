@@ -73,7 +73,7 @@
 | MrCrayfish's Furniture Mod      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod)  | 7.0.0-pre28 |
 | GraveStone Mod                  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)            | 1.0.2       |
 | HilloMod                        |                                                                                      | 0.0.1       |
-| Just Enough Items               | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei)                       | 9.2.3.84    |
+| Just Enough Items               | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei)                       | 9.3.3.95    |
 | Just A Raft Mod                 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/just-a-raft-mod)           | 1.1.3       |
 | Kotlin for Forge                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge)          | 3.1.0       |
 | Light Overlay                   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/light-overlay)             | 6.0.4       |
