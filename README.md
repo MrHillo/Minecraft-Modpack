@@ -88,7 +88,7 @@
 | More Villagers                  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/more-villagers)            | 3.1.2       |
 | Mouse Tweaks                    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)              | 2.21        |
 | Patchouli                       | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/patchouli)                 | 65          |
-| Puzzles Lib                     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib)               | 3.1.3       |
+| Puzzles Lib                     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib)               | 3.1.5       |
 | Quark                           | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/quark)                     | 3.0-334     |
 | Serene Seasons                  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)            | 6.0.0.10    |
 | Silent Lib                      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/silent-lib)                | 6.0.0       |
