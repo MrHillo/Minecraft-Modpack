@@ -22,6 +22,7 @@
     ![Edit Profile](https://hillogames.de/edit-profile.PNG)
 
     ![Params](https://hillogames.de/forge-params.PNG)
+
     -Xmx4G für 4GB RAM (minimum), -Xmx8G für 8GB RAM (empfohlen)
 
 5. [Download](https://github.com/MrHillo/Minecraft-Modpack/archive/refs/heads/main.zip) dieses Repository und entpacke es
