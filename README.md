@@ -2,12 +2,37 @@
 
 ## Requirements
 
-- Java 17
-- Minecraft 1.18.1 Java Edition
-- Minecraft Forge Version 1.18.1-39.0.64+ [Download](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.18.1.html)
-- min 4GB+ RAM (-Xmx4G in den Startparametern); 8GB empfohlen (-Xmx8G)
+- Java 17 [Oracle](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)
+- Minecraft 1.18.1 Java Edition [Minecraft](https://www.minecraft.net/de-de/download)
+- Minecraft Forge Version 1.18.1-39.0.64+ [Minecraftforge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.18.1.html)
+- min. 4GB RAM; 8GB empfohlen (-Xmx8G)
 
-![](https://hillogames.de/mc-req-gb.PNG)
+## Installation
+
+1. [Download](https://www.oracle.com/java/technologies/downloads/#jdk17-windows) und installiere Java 17
+2. [Download](https://www.minecraft.net/de-de/download) und installiere Minecraft Java Edition (ggf. muss Minecraft einmal gestartet werden)
+3. [Download](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.18.1.html) und installiere Forge
+
+    ![Forge Setup](https://hillogames.de/forge-setup.PNG)
+
+    Sollte dies nicht möglich sein gibt es wahrscheinlich ein Problem mit der Java Version (Wiederhole Schritt 1 und starte den PC neu)
+
+4. Bearbeite die Startparameter im Minecraft Launcher des Forge Profils
+
+    ![Edit Profile](https://hillogames.de/edit-profile.PNG)
+
+    ![Params](https://hillogames.de/forge-params.PNG)
+    -Xmx4G für 4GB RAM (minimum), -Xmx8G für 8GB RAM (empfohlen)
+
+5. [Download](https://github.com/MrHillo/Minecraft-Modpack/archive/refs/heads/main.zip) dieses Repository und entpacke es
+
+    ![Repo download](https://hillogames.de/download-git.PNG)
+
+6. Kopiere den mods Ordner in den Minecraft Ordner (%appdata%/.minecraft)
+
+    ![Minecraft Folder](https://hillogames.de/minecraft-folder.PNG)
+
+7. Hab Spaß beim Spielen!
 
 ## Mod Liste
 
