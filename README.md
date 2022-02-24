@@ -72,7 +72,7 @@
 | Framed Compacting Drawers       | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/framed-compacting-drawers) | 4.0.2       |
 | MrCrayfish's Furniture Mod      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod)  | 7.0.0-pre28 |
 | GraveStone Mod                  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)            | 1.0.2       |
-| HilloMod                        |                                                                                      | 0.1.1       |
+| HilloMod                        |                                                                                      | 0.1.2       |
 | Just Enough Items               | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei)                       | 9.3.3.95    |
 | Just A Raft Mod                 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/just-a-raft-mod)           | 1.1.3       |
 | Kotlin for Forge                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge)          | 3.1.0       |
