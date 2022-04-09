@@ -106,6 +106,6 @@
 | Trading Post                    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/trading-post)              | 3.1.2       |
 | Tree Harvester                  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tree-harvester)            | 4.2         |
 | Visual Workbench                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/visual-workbench)          | 3.1.0       |
-| Waystones                       | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/waystones)                 | 9.0.3       |
+| Waystones                       | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/waystones)                 | 10.0.0      |
 | Xaero's Minimap                 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)            | 22.5.0      |
 | Xaero's World Map               | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)          | 1.20.6      |
