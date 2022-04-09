@@ -53,7 +53,7 @@
 | Biomes O' Plenty                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)           | 15.0.0.105  |
 | Chisels & Bits                  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)              | 1.2.81      |
 | Cloth Config API                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cloth-config-forge)        | 6.2.57      |
-| Clumps                          | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/clumps)                    | 8.0.0+5     |
+| Clumps                          | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/clumps)                    | 8.0.0+7     |
 | Collective                      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/collective)                | 4.25        |
 | Connected Glass                 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/connected-glass)           | 1.1.2       |
 | Copper Equipment                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/copper-equipment-forge)    | 1.2         |
