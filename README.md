@@ -70,7 +70,7 @@
 | Phantom Minecart                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fix-my-minecart)           | 1.0.0       |
 | Flywheel                        | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/flywheel)                  | 0.6.0       |
 | Framed Compacting Drawers       | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/framed-compacting-drawers) | 4.0.2       |
-| MrCrayfish's Furniture Mod      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod)  | 7.0.0-pre28 |
+| MrCrayfish's Furniture Mod      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod)  | 7.0.0-pre29 |
 | GraveStone Mod                  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)            | 1.0.2       |
 | HilloMod                        |                                                                                      | 0.1.3       |
 | Just Enough Items               | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei)                       | 9.3.3.95    |
