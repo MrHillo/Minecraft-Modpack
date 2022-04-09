@@ -42,7 +42,7 @@
 | Additional Lanterns             | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/additional-lanterns)       | 1.0.0       |
 | Adorn                           | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/adorn-for-forge)           | 3.4.0       |
 | AI Improvements                 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/ai-improvements)           | 0.4.0       |
-| Air Hop                         | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/air-hop)                   | 3.0.0       |
+| Air Hop                         | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/air-hop)                   | 3.2.0       |
 | AppleSkin                       | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/appleskin)                 | 2.3.0       |
 | Aquaculture 2                   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/aquaculture)               | 2.3.3       |
 | Architectury API                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/architectury-forge)        | 3.6.17      |
