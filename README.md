@@ -98,7 +98,7 @@
 | Sophisticated Backpacks         | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)   | 3.15.9.533  |
 | Storage Drawers                 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)           | 10.1.1      |
 | Stylish Effects                 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/stylish-effects)           | 3.0.2       |
-| SuperMartijn642's Core Lib      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib) | 1.0.16a     |
+| SuperMartijn642's Core Lib      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib) | 1.0.16b     |
 | TerraBlender                    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/terrablender)              | 1.1.0.99    |
 | The One Probe                   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)             | 5.1.0       |
 | Torch Bandolier                 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/torch-bandolier)           | 1.7.0       |
