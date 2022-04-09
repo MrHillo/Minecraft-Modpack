@@ -77,7 +77,7 @@
 | Just A Raft Mod                 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/just-a-raft-mod)           | 1.1.3       |
 | Kotlin for Forge                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge)          | 3.1.0       |
 | Light Overlay                   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/light-overlay)             | 6.0.4       |
-| Macaw's Bridges                 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)            | 2.0.1       |
+| Macaw's Bridges                 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)            | 2.0.2       |
 | Macaw's Doors                   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/macaws-doors)              | 1.0.6       |
 | Macaw's Fences and Walls        | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls)   | 1.0.3       |
 | Macaw's Lights and Lamps        | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps)   | 1.0.3       |
