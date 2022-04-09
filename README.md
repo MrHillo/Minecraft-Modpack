@@ -82,7 +82,7 @@
 | Macaw's Fences and Walls        | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls)   | 1.0.2       |
 | Macaw's Lights and Lamps        | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/macaws-lights-and-lamps)   | 1.0.2       |
 | Macaw's Paintings               | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/macaws-paintings)          | 1.0.2       |
-| Macaw's Roofs                   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)              | 2.1.0       |
+| Macaw's Roofs                   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)              | 2.1.1       |
 | Macaw's Trapdoors               | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)          | 1.0.5       |
 | Macaw's Windows                 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)            | 2.0.3       |
 | More Villagers                  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/more-villagers)            | 3.2.0       |
