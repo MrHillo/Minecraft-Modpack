@@ -47,7 +47,7 @@
 | Aquaculture 2                   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/aquaculture)               | 2.3.3       |
 | Architectury API                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/architectury-forge)        | 3.6.17      |
 | AutoRegLib                      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/autoreglib)                | 1.7-53      |
-| Balm                            | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/balm)                      | 2.4.2+0     |
+| Balm                            | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/balm)                      | 3.0.2+0     |
 | Better Advancements             | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-advancements)       | 0.2.0.128   |
 | Better Mods Button              | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-mods-button)        | 3.2.1       |
 | Biomes O' Plenty                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)           | 16.0.0.108  |
