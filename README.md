@@ -91,7 +91,7 @@
 | Puzzles Lib                     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib)               | 3.1.5       |
 | Quark                           | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/quark)                     | 3.1-336     |
 | Serene Seasons                  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)            | 6.0.0.10    |
-| Silent Lib                      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/silent-lib)                | 6.0.0       |
+| Silent Lib                      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/silent-lib)                | 6.2.0       |
 | Sit                             | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sit)                       | 1.3.2       |
 | Skinned Lanterns                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/skinned-lanterns)          | 1.3.3       |
 | Skinned Carts                   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/skinned-carts)             | 1.1.1       |
