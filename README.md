@@ -85,7 +85,7 @@
 | Macaw's Roofs                   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/macaws-roofs)              | 2.1.0       |
 | Macaw's Trapdoors               | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/macaws-trapdoors)          | 1.0.4       |
 | Macaw's Windows                 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/macaws-windows)            | 2.0.2       |
-| More Villagers                  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/more-villagers)            | 3.1.2       |
+| More Villagers                  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/more-villagers)            | 3.2.0       |
 | Mouse Tweaks                    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)              | 2.21        |
 | Patchouli                       | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/patchouli)                 | 67          |
 | Puzzles Lib                     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib)               | 3.3.2       |
