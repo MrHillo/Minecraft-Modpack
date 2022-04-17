@@ -51,6 +51,7 @@
 | Better Advancements             | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-advancements)       | 0.2.0.128   |
 | Better Mods Button              | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-mods-button)        | 3.2.1       |
 | Biomes O' Plenty                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)           | 16.0.0.108  |
+| Bookshelf                       | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bookshelf)                 | 13.0.12     |
 | Chisels & Bits                  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)              | 1.2.83      |
 | Cloth Config API                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cloth-config-forge)        | 6.2.57      |
 | Clumps                          | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/clumps)                    | 8.0.0+7     |
@@ -66,7 +67,6 @@
 | Easy Magic                      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/easy-magic)                | 3.3.0       |
 | Enchanting Infuser              | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge)  | 3.2.0       |
 | Enchantment Descriptions        | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)  | 10.0.2      |
-| Bookshelf                       | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bookshelf)                 | 13.0.12     |
 | Farmer's Delight                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)           | 1.0.4       |
 | Phantom Minecart                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fix-my-minecart)           | 1.0.0       |
 | Flywheel                        | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/flywheel)                  | 0.6.2       |
