@@ -60,6 +60,7 @@
 | Copper Equipment                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/copper-equipment-forge)    | 1.2         |
 | Craftable Horse Armour & Saddle | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cha-s)                     | 1.8         |
 | Create                          | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create)                    | 0.4.1       |
+| Create Crafts & Additions       | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/createaddition)            | 20220417a   |
 | Croptopia                       | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/croptopia-fabric)          | 1.8.3       |
 | Decorative Blocks               | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks)         | 2.1.0       |
 | Domum Ornamentum                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum)          | 1.0.50      |
