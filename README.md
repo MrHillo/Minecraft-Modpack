@@ -62,7 +62,7 @@
 | Croptopia                       | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/croptopia-fabric)          | 1.8.3       |
 | Decorative Blocks               | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks)         | 2.1.0       |
 | Domum Ornamentum                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum)          | 1.0.48      |
-| Easy Villagers                  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/easy-villagers)            | 1.0.3       |
+| Easy Villagers                  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/easy-villagers)            | 1.0.4       |
 | Easy Magic                      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/easy-magic)                | 3.3.0       |
 | Enchanting Infuser              | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge)  | 3.2.0       |
 | Enchantment Descriptions        | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)  | 10.0.2      |
