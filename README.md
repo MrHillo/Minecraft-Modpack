@@ -62,7 +62,7 @@
 | Create                          | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create)                    | 0.4.1       |
 | Create: Alloyed                 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-alloyed)            | 1.3b        |
 | Create Crafts & Additions       | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/createaddition)            | 20220417a   |
-| Create Deco                     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-deco)               | 1.2.6a      |
+| Create Deco                     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-deco)               | 1.2.7       |
 | Create Plus                     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create-plus)               | 0.4.0.1     |
 | Create: Steam Powered           | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/steam-powered-create)      | 2.0.2-alpha |
 | Croptopia                       | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/croptopia-fabric)          | 2.0.1       |
