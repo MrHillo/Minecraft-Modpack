@@ -96,7 +96,7 @@
 | Mouse Tweaks                    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)              | 2.21        |
 | Patchouli                       | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/patchouli)                 | 67          |
 | Puzzles Lib                     | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/puzzles-lib)               | 3.3.2       |
-| Quark                           | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/quark)                     | 3.2-349     |
+| Quark                           | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/quark)                     | 3.2-355     |
 | Serene Seasons                  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/serene-seasons)            | 7.0.0.14    |
 | Silent Lib                      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/silent-lib)                | 6.2.0       |
 | Sit                             | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sit)                       | 1.3.2       |
