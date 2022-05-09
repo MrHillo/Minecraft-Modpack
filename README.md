@@ -108,7 +108,7 @@
 | SuperMartijn642's Core Lib      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/supermartijn642s-core-lib) | 1.0.16b     |
 | TerraBlender                    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/terrablender)              | 1.1.0.99    |
 | The One Probe                   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)             | 5.1.0       |
-| Torch Bandolier                 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/torch-bandolier)           | 1.7.0       |
+| Torch Bandolier                 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/torch-bandolier)           | 1.8.0       |
 | Torch Slabs Mod                 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/torchslabs-mod)            | 1.7.5       |
 | Trading Post                    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/trading-post)              | 3.2.0       |
 | Tree Harvester                  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tree-harvester)            | 5.1         |
