@@ -49,7 +49,7 @@
 | AutoRegLib                      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/autoreglib)                | 1.7-53      |
 | Balm                            | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/balm)                      | 3.0.2+0     |
 | Better Advancements             | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-advancements)       | 0.2.0.128   |
-| Better Mods Button              | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-mods-button)        | 3.2.1       |
+| Better Mods Button              | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-mods-button)        | 3.2.2       |
 | Biomes O' Plenty                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)           | 16.0.0.110  |
 | Bookshelf                       | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bookshelf)                 | 13.0.13     |
 | Chisels & Bits                  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)              | 1.2.87      |
