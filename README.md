@@ -112,7 +112,7 @@
 | Torch Slabs Mod                 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/torchslabs-mod)            | 1.7.5       |
 | Trading Post                    | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/trading-post)              | 3.2.0       |
 | Tree Harvester                  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/tree-harvester)            | 5.1         |
-| Visual Workbench                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/visual-workbench)          | 3.2.0       |
+| Visual Workbench                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/visual-workbench)          | 3.3.0       |
 | Waystones                       | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/waystones)                 | 10.0.0      |
 | Xaero's Minimap                 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap)            | 22.7.0      |
 | Xaero's World Map               | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map)          | 1.21.2      |
