@@ -102,7 +102,7 @@
 | Sit                             | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sit)                       | 1.3.2       |
 | Skinned Lanterns                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/skinned-lanterns)          | 1.3.4       |
 | Skinned Carts                   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/skinned-carts)             | 1.1.1       |
-| Sophisticated Backpacks         | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)   | 3.15.17.559 |
+| Sophisticated Backpacks         | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)   | 3.15.18.570 |
 | Sophisticated Core              | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/sophisticated-core)        | 0.0.7.16    |
 | Storage Drawers                 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)           | 10.2.0      |
 | Stylish Effects                 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/stylish-effects)           | 3.1.0       |
