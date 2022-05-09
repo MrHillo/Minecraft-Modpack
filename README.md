@@ -45,7 +45,7 @@
 | Air Hop                         | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/air-hop)                   | 3.2.0       |
 | AppleSkin                       | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/appleskin)                 | 2.4.0       |
 | Aquaculture 2                   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/aquaculture)               | 2.3.6       |
-| Architectury API                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/architectury-forge)        | 4.1.49      |
+| Architectury API                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/architectury-forge)        | 4.4.59      |
 | AutoRegLib                      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/autoreglib)                | 1.7-53      |
 | Balm                            | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/balm)                      | 3.0.3+0     |
 | Better Advancements             | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-advancements)       | 0.2.0.129   |
