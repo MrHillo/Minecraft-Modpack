@@ -72,7 +72,7 @@
 | Easy Villagers                  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/easy-villagers)            | 1.0.4       |
 | Easy Magic                      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/easy-magic)                | 3.3.0       |
 | Enchanting Infuser              | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/enchanting-infuser-forge)  | 3.2.0       |
-| Enchantment Descriptions        | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)  | 10.0.2      |
+| Enchantment Descriptions        | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/enchantment-descriptions)  | 10.0.3      |
 | Farmer's Delight                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/farmers-delight)           | 1.1.0       |
 | Phantom Minecart                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/fix-my-minecart)           | 1.0.0       |
 | Flywheel                        | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/flywheel)                  | 0.6.2       |
