@@ -52,7 +52,7 @@
 | Better Mods Button              | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/better-mods-button)        | 3.2.1       |
 | Biomes O' Plenty                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)           | 16.0.0.108  |
 | Bookshelf                       | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/bookshelf)                 | 13.0.12     |
-| Chisels & Bits                  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)              | 1.2.83      |
+| Chisels & Bits                  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/chisels-bits)              | 1.2.87      |
 | Cloth Config API                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cloth-config-forge)        | 6.2.62      |
 | Clumps                          | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/clumps)                    | 8.0.0+8     |
 | Collective                      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/collective)                | 4.25        |
