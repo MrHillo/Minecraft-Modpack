@@ -56,7 +56,7 @@
 | Cloth Config API                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cloth-config-forge)        | 6.2.57      |
 | Clumps                          | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/clumps)                    | 8.0.0+7     |
 | Collective                      | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/collective)                | 4.25        |
-| Connected Glass                 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/connected-glass)           | 1.1.2       |
+| Connected Glass                 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/connected-glass)           | 1.1.3       |
 | Copper Equipment                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/copper-equipment-forge)    | 1.2         |
 | Craftable Horse Armour & Saddle | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/cha-s)                     | 1.8         |
 | Create                          | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/create)                    | 0.4.1       |
