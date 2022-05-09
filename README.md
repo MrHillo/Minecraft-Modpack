@@ -81,7 +81,7 @@
 | GraveStone Mod                  | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod)            | 1.0.2       |
 | HilloMod                        |                                                                                      | 0.1.9       |
 | Just Enough Items               | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/jei)                       | 10.0.0.191  |
-| Just A Raft Mod                 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/just-a-raft-mod)           | 1.1.3       |
+| Just A Raft Mod                 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/just-a-raft-mod)           | 1.2.0       |
 | Kotlin for Forge                | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge)          | 3.3.2       |
 | Light Overlay                   | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/light-overlay)             | 6.0.5       |
 | Macaw's Bridges                 | [CurseForge](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges)            | 2.0.2       |
