@@ -3,15 +3,15 @@
 ## Requirements
 
 - Java 17 [Oracle](https://www.oracle.com/java/technologies/downloads/#jdk17-windows)
-- Minecraft 1.18.2 Java Edition [Minecraft](https://www.minecraft.net/de-de/download)
-- Minecraft Forge Version 1.18.2-40.1.0+ [Minecraftforge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.18.2.html)
+- Minecraft 1.20.1 Java Edition [Minecraft](https://www.minecraft.net/de-de/download)
+- Minecraft Forge Version 1.20.1-47.2.0 [Minecraftforge](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html)
 - min. 4GB RAM; 8GB empfohlen (-Xmx8G)
 
 ## Installation
 
 1. [Download](https://www.oracle.com/java/technologies/downloads/#jdk17-windows) und installiere Java 17
 2. [Download](https://www.minecraft.net/de-de/download) und installiere Minecraft Java Edition (ggf. muss Minecraft einmal gestartet werden)
-3. [Download](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.18.1.html) und installiere Forge
+3. [Download](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.20.1.html) und installiere Forge
 
     ![Forge Setup](https://hillogames.de/forge-setup.PNG)
 
